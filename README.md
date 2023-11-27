@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @darren-cohen
-- 👀 I’m interested in ... a lot
+- 👀 I’m interested in ...
+  - 📰 News/Politics
+  - 💻 Tech
+  - Sports
+    - ⚾️ Mets
+    - 🏀 Knicks
+    - 🏒 Rangers
+    - 🏈 Jets   
 - 📫 How to reach me ... my website is at https://darrencohen.me
 
 <!---
