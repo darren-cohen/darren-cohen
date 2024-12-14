@@ -6,7 +6,6 @@
     - ⚾️ Mets
     - 🏀 Knicks
     - 🏒 Rangers
-    - 🏈 Jets   
 - 📫 How to reach me ... my website is at https://darrencohen.me
 
 <!---
